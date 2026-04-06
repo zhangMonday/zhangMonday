@@ -24,5 +24,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=zhangmonday&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=zhangmonday&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Badge" />
 </p>
