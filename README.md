@@ -1,4 +1,4 @@
-# Hi there 👋 I'm zhangmonday
+# Hi there 👋 I'm zhangMonday
 
 ![github-snake](https://raw.githubusercontent.com/zhangmonday/zhangmonday/output/github-contribution-grid-snake.svg)
 
