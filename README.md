@@ -13,8 +13,8 @@
 
 ### 📊 GitHub 统计数据
 <p align="left">
-  <img src="https://github-readme-stats-ebon-three-19.vercel.app/api?username=zhangmonday&show_icons=true&theme=transparent&rank_icon=true" alt="zhangmonday's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats-ebon-three-19.vercel.app/api/top-langs/?username=zhangmonday&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats-ebon-three-19.vercel.app/api?username=zhangmonday&show_icons=true&theme=transparent&rank_icon=true&include_all_commits=true&locale=cn" alt="zhangmonday's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats-ebon-three-19.vercel.app/api/top-langs/?username=zhangmonday&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&locale=cn" alt="Top Langs" height="180px" />
 </p>
 
 ### 📬 联系我
