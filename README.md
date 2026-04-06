@@ -19,7 +19,7 @@
 
 ### 📬 联系我
 - 🌐 个人主页: [zhangmonday.top](https://zhangmonday.top)
-- 📧 电子邮箱: [zhangmondaynb@gmail.com](mailto:zhangmondaynb@gmail.com)
+- 📧 电子邮箱: [zhangmonday@qq.com](mailto:zhangmonday@qq.com)
 - 🐙 GitHub: [@zhangmonday](https://github.com/zhangmonday)
 
 ---
