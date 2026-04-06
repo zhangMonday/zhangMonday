@@ -1,6 +1,10 @@
 # Hi there 👋 I'm zhangMonday
 
-![github-snake](https://raw.githubusercontent.com/zhangmonday/zhangmonday/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhangmonday/zhangmonday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhangmonday/zhangmonday/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zhangmonday/zhangmonday/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 🚀 关于我
 - 🔭 我是一名来自中国的学生 (School student from China)
